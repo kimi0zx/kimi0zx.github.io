@@ -1,0 +1,24 @@
+theme = "congo"
+
+baseURL = "https://your_domain.com"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "Abishek C"
+copyright = "© 2021 Abishek C"
+
+enableEmoji = true
+enableRobotsTXT = true
+
+summaryLength = 0
+
+[author]
+  name = "Abishek C"
+  image = "img/author4.png"
+  links = [
+    { email = "mailto:c.abishek.101@gmail.com" },
+    { twitter = "https://twitter.com/username" },
+    { discord = "https://discord.com/users/626081769686564866" },
+    { github = "https://github.com/kimi0zx" },
+    { linkedin = "https://linkedin.com/in/abishek-c101" },
+  ]
