@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "Projects I've done, worked on"
+description: "Things I've released into the world"
 
 _build:
   render: "always"
@@ -11,5 +11,5 @@ cascade:
 ---
 
 {{< lead >}}
-Projects I've done, worked on
+Things I've released into the world
 {{< /lead >}}

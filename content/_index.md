@@ -4,8 +4,7 @@ description: "Personal website of computer engineering student interested in cyb
 ---
 
 Welcome to the personal website of\
-a computer engineering undergraduate student\
-interested in cybersecurity
+a final year computer engineering\
+undergraduate student.
 
 To learn more [about me &rarr;]({{< ref "about" >}}) 
-

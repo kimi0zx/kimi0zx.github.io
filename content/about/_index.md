@@ -6,13 +6,16 @@ draft: false
 slug: "about"
 ---
 
-## *Selam* :wave: ben *Zekeriya*
+## Hello :wave: from *Abishek*
 
 
 
-Üniversitenin ilk yılında [İTÜRO](http://www.ituro.org/tr/kategori/trafik/) yarışması vesilesiyle görüntü işleme gibi konularla uğraşmış, yazılım konusunda da tecrübe kazanmak için kendi çapında farklı konularda [projelerle]ilgilenen ve siber güvenliğe ilgimin artmasıyla bu alanda kendimi geliştirmeye çalışan Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. 
+I am a final year B.Tech Student majoring in Computer Science from [Marian Engineering College](https://www.marian.ac.in/). I love tech and regularly explore projects where I experiment with various new technologies. I am currently exploring various new domains to figure out my final year 
+project. I am also looking for new career opportunities.
 
 
 {{< alert >}}
-Bana aşağıdaki linklerden her zaman ulaşabilirsiniz
+You can reach me from any of the links below.
 {{< /alert >}}
+
+{{< links >}}
