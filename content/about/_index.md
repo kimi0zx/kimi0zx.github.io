@@ -15,7 +15,6 @@ project. I am also looking for new career opportunities.
 
 
 {{< alert >}}
-You can reach me from any of the links below.
+You can reach me using any of my socials.
 {{< /alert >}}
 
-{{< links >}}
